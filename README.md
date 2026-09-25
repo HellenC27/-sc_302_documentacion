@@ -1,5 +1,5 @@
 # -sc_302_documentacion
-Laboratorio 1.
+
 Clase: Documentación de Software. 
 Horario: Lunes 6 pm-9pm.
 
